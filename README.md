@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WasifMir
-- 📫 How to reach me wasifmir81@gmail.com
+- Hi, I’m @WasifMir
+- How to reach me wasifmir81@gmail.com
 
 <!---
 WasifMir/WasifMir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
