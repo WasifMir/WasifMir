@@ -31,23 +31,23 @@ Analytical Problem Solving, Strategic Foresight, Business Scenario Modelling, De
 
 ### 🔮 Liquid AI Predictive Model for Resource Allocation
 **Client:** PepsiCo, Mars Wrigley, Suntory, Unilever  
-Developed and deployed the ‘Liquid AI’ model to optimise field resource allocation across 30K+ retail locations. Delivered a 25% uplift in ROI through predictive analytics and omnichannel strategy.
+Developed and deployed the ‘Liquid AI’ model to optimise field resource allocation across 30K+ retail locations. Integrated predictive analytics and omnichannel strategy to enhance execution efficiency, contributing to a 25% uplift in ROI.
 
 ### 📊 Power BI Dashboard Suite for Sales & Marketing Insights
 **Client:** Samsung TV & AV, Sky  
-Designed automated Power BI dashboards for real-time insights, reducing manual reporting by 30% and enabling data-driven decisions across retail and digital channels.
+Designed and implemented automated Power BI dashboards to deliver real-time sales and marketing insights. Reduced manual reporting time by 30% and enabled data-driven decision-making across retail and digital channels.
 
 ### 🏗️ Data Warehouse Integration for Sales Intelligence
 **Client:** Sky, Yorkshire Housing Association  
-Built a scalable data warehouse using SQL and Azure Synapse to centralise sales data, enabling advanced analytics and improving sales efficiency by 20%.
+Built a scalable data warehouse using SQL and Azure Synapse to centralise sales and operational data. Enabled advanced analytics and reporting through Power BI, improving sales efficiency by 20% and operational performance by 25%.
 
 ### 📈 Python-Based Statistical Modelling for Customer Behaviour
 **Client:** Samsung, Sky  
-Applied Python for behavioural analytics and segmentation, leading to a 30% increase in campaign effectiveness and improved targeting.
+Applied Python for behavioural analytics and segmentation, uncovering key drivers of customer engagement. Insights led to a 30% increase in campaign effectiveness and improved targeting strategies.
 
 ### 🧭 Strategic Planning & Stakeholder Engagement Framework
 **Client:** Yorkshire Housing Association, Samsung  
-Led strategic planning and executive workshops to align data strategy with business goals, improving service quality by 15%.
+Led strategic planning initiatives and facilitated executive workshops to align data strategy with business goals. Influenced board-level decisions and improved service quality by 15% through data-backed recommendations.
 
 ---
 
