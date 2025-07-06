@@ -1,10 +1,11 @@
-# 👋 Wasif Mir – Data Strategy & Analytics
+# Wasif Mir – Data Strategy & Analytics
 
-🎯 **Strategic executive with 20+ years of experience** leading enterprise transformation and data-driven innovation across FMCG, retail, and consumer technology. Proven track record of delivering measurable business impact through advanced analytics, AI, and intelligent automation.
+**Strategic executive with 20+ years of experience** Strategic executive with 20+ years of experience leading enterprise transformation and data-driven innovation across FMCG, retail, and consumer technology. Proven track record of delivering measurable business impact through advanced analytics, AI and intelligent automation. Expert in shaping enterprise analytics strategy, integrating real-time data platforms, advanced segmentation and omnichannel intelligence to drive precision targeting and commercial performance. Key achievements include a 25% uplift in ROI, 30% increase in customer engagement and 40% reduction in data processing time. Combines critical thinking and commercial acumen with deep technical expertise in Python, SQL, DAX, Power BI, Salesforce and Generative AI. Skilled in leading complex, cross-functional programmes that align data, technology, and strategic priorities. Known for critical thinking, collaborative leadership, I thrive in fast-paced, high-growth environments driving innovationand delivering long-term value.
+
 
 ---
 
-## 🧠 Key Strengths & Expertise
+## 🎯 Key Strengths & Expertise
 
 ### 📊 Strategic Leadership & Business Intelligence
 Enterprise-Wide Transformation, Omnichannel Strategy Execution, Data-Driven Operating Models, Strategic Roadmapping, Executive Stakeholder Alignment, High-Performance Team Leadership, Innovation Culture Development, Value Realisation & ROI Optimisation
