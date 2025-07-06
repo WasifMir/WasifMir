@@ -57,14 +57,3 @@ Led strategic planning and executive workshops to align data strategy with busin
 📧 [wasifmir81@gmail.com](mailto:wasifmir81@gmail.com)  
 📞 +44 7588667577  
 🔗 [LinkedIn](https://www.linkedin.com)
-
----
-
-## 📫 Contact
-
-📍 Birmingham, UK  
-📧 wasifmir81@gmail.com  
-📞 +44 7588667577  
-🔗 [LinkedIn](https://www.linkedin.com)
-
-_Last updated: July 06, 2025_
