@@ -1,53 +1,157 @@
-# Wasif Mir – Data Strategy & Analytics
+# Wasif Mir Data Architect | Scalable BI & AI Solutions
 
-Strategic executive with 20+ years of experience leading enterprise transformation and data-driven innovation across FMCG, retail, and consumer technology. Proven track record of delivering measurable business impact through advanced analytics, AI and intelligent automation. Expert in shaping enterprise analytics strategy, integrating real-time data platforms, advanced segmentation and omnichannel intelligence to drive precision targeting and commercial performance. Key achievements include a 25% uplift in ROI, 30% increase in customer engagement and 40% reduction in data processing time. Combines critical thinking and commercial acumen with deep technical expertise in Python, SQL, DAX, Power BI, Salesforce and Generative AI. Skilled in leading complex, cross-functional programmes that align data, technology, and strategic priorities. Known for critical thinking, collaborative leadership, I thrive in fast-paced, high-growth environments driving innovationand delivering long-term value.
+Dynamic Strategic Data Architect with deep expertise in designing scalable, cloud‑native data platforms that power real‑time analytics, automation and intelligent decision‑making across enterprise environments.
+Specialised in architecting high‑performance solutions across the Azure ecosystem—Synapse, Data Factory, Data Lake, Microsoft Fabric—enabling predictive analytics, automated engineering pipelines and unified BI delivery.
 
+Skilled in BI architecture, advanced visualisation and data modelling, creating analytics environments that unlock actionable insights and organisation‑wide intelligence. Strong technical leadership across integration, governance, DevOps, CI/CD and multi‑system architecture. Proven success delivering enterprise BI, automation frameworks and end‑to‑end data strategies for global leaders in FMCG, telecoms and retail, generating measurable commercial impact.
 
----
+🎯 Key Strengths & Expertise
+📊 Strategic Leadership & Business Intelligence
+Strategic Planning
 
-## 🎯 Key Strengths & Expertise
+Enterprise‑Wide Transformation
 
-### 📊 Strategic Leadership & Business Intelligence
-Enterprise-Wide Transformation, Omnichannel Strategy Execution, Data-Driven Operating Models, Strategic Roadmapping, Executive Stakeholder Alignment, High-Performance Team Leadership, Innovation Culture Development, Value Realisation & ROI Optimisation
+Omnichannel Strategy Execution
 
-### 📈 Advanced Analytics & Insight Generation
-Customer & Market Segmentation, Behavioural Analytics, Real-Time Decision Intelligence, Campaign Performance Optimisation, Revenue Forecasting, KPI & Metrics Frameworks, Personalisation Strategy, Data-Driven Customer Journey Mapping
+Data‑Driven Operating Models
 
-### 🛠️ Technical Tools & Platforms
-**Languages:** Python, SQL, R, DAX  
-**BI Tools:** Power BI, Tableau, Looker, Microsoft Excel (Advanced)  
-**Cloud & Big Data:** Microsoft Azure, Azure Synapse Analytics, AWS, Google BigQuery, Databricks, Snowflake, Apache Spark  
-**Data Engineering:** ETL Development, Data Warehousing, Git & GitHub
+Executive Stakeholder Alignment
 
-### 🚀 Emerging Technologies & Innovation
-Artificial Intelligence (AI), Generative AI, Intelligent Automation, Digital Twin Modelling, Cloud-Native Architecture, API Integration, Scalable Data Infrastructure, DataOps & MLOps
+Innovation Culture Development
 
-### 🧩 Critical Thinking & Decision Intelligence
-Analytical Problem Solving, Strategic Foresight, Business Scenario Modelling, Decision Intelligence, Risk Assessment, Opportunity Sizing & Prioritisation, Insight-to-Action Frameworks, Change Impact Assessment, Competitive Intelligence
+Value Realisation & ROI Optimisation
 
----
+Performance Management & KPI Frameworks
 
-## 📂 Projects & Case Studies
+Business Strategy & Change Leadership
 
-### 🔮 Liquid AI Predictive Model for Resource Allocation
-**Client:** PepsiCo, Mars Wrigley, Suntory, Unilever  
-Developed and deployed the ‘Liquid AI’ model to optimise field resource allocation across 30K+ retail locations. Integrated predictive analytics and omnichannel strategy to enhance execution efficiency, contributing to a 25% uplift in ROI.
+📈 Strategic & Business Intelligence
+Data Strategy & Architecture
 
-### 📊 Power BI Dashboard Suite for Sales & Marketing Insights
-**Client:** Samsung TV & AV, Sky  
-Designed and implemented automated Power BI dashboards to deliver real-time sales and marketing insights. Reduced manual reporting time by 30% and enabled data-driven decision-making across retail and digital channels.
+Advanced Analytics & AI
 
-### 🏗️ Data Warehouse Integration for Sales Intelligence
-**Client:** Sky, Yorkshire Housing Association  
-Built a scalable data warehouse using SQL and Azure Synapse to centralise sales and operational data. Enabled advanced analytics and reporting through Power BI, improving sales efficiency by 20% and operational performance by 25%.
+Governance & Compliance
 
-### 📈 Python-Based Statistical Modelling for Customer Behaviour
-**Client:** Samsung, Sky  
-Applied Python for behavioural analytics and segmentation, uncovering key drivers of customer engagement. Insights led to a 30% increase in campaign effectiveness and improved targeting strategies.
+Real‑Time BI Solutions
 
-### 🧭 Strategic Planning & Stakeholder Engagement Framework
-**Client:** Yorkshire Housing Association, Samsung  
-Led strategic planning initiatives and facilitated executive workshops to align data strategy with business goals. Influenced board-level decisions and improved service quality by 15% through data-backed recommendations.
+Systems Integration
+
+Scalable BI Infrastructure
+
+Data Lifecycle Management
+
+ML Predictive Modelling
+
+🚀 Emerging Tech & Innovation
+AI & Generative AI
+
+Intelligent Automation
+
+Digital Twin
+
+Cloud‑Native Architecture
+
+API‑First Integration
+
+DataOps & MLOps
+
+Event‑Driven Architecture
+
+Real‑Time Streaming (Kafka, Event Hubs)
+
+☁️ Cloud & Big Data
+Microsoft Azure
+
+Microsoft Fabric
+
+Azure DevOps
+
+Azure Synapse Analytics
+
+Azure Event Hubs / Kafka
+
+Apache Spark
+
+Azure Data Lake Gen2
+
+Databricks
+
+Snowflake
+
+🛠️ Data Engineering & Architecture
+ETL/ELT Pipelines
+
+Lakehouse & Medallion Architecture
+
+Enterprise Data Warehousing
+
+ADF & Airflow Orchestration
+
+Schema Evolution & Version Control
+
+Batch/Streaming Unification
+
+Debezium & Kafka Connect
+
+Salesforce Integration
+
+🧭 Enterprise Data Architecture & Governance
+CI/CD & Automated Deployments
+
+SCD Modelling (Types 1–6)
+
+Dimensional Modelling & Semantic Layers
+
+MDM, Metadata & Lineage
+
+RBAC, RACI Frameworks
+
+Data Quality & Observability
+
+Governance Standards & Compliance
+
+Architecture Patterns: Lambda, Kappa, Microservices
+
+🏗️ Platform & Solution Delivery
+Solution Architecture & Blueprinting
+
+Multi‑System Integration (ERP, SaaS, Legacy)
+
+API‑Driven Connectivity
+
+DevOps for Data (Azure DevOps, Git, GitHub)
+
+Performance Optimisation & Cost Governance
+
+SLA/SLO Definition for Data Platforms
+
+📂 Projects & Case Studies
+Data Strategy, Architecture & Platform Engineering | WIG
+Sep 2025 – Jan 2026  
+Designed enterprise‑wide data architecture and governance aligned to strategic goals. Built integrated analytics platforms in Azure Synapse and Microsoft Fabric using automated pipelines, dataflows and lakehouse architecture. Implemented CI/CD for scalable, consistent delivery.
+Impact: Improved efficiency, strengthened compliance, enabled predictive insights.
+Tools: Power BI, Fabric, Synapse, SQL, Lakehouse, Pipelines, CI/CD.
+
+Liquid AI Predictive Model & Resource Optimisation | Suntory
+Apr 2024 – Sep 2025  
+Deployed the Liquid AI predictive model across 30K+ retail locations, integrating real‑time omnichannel insight with CRM, sales and activation platforms. Leveraged Synapse, Data Factory and DevOps automation for scalable analytics delivery.
+Impact: 25% ROI uplift, stronger decision‑making, improved operational responsiveness.
+Tools: Python, AI/ML, Power BI, Salesforce, SQL, Synapse, Data Factory, DevOps.
+
+Customer Insight Modelling with Advanced ML & AI | Unilever
+Apr 2024 – Sep 2025  
+Built statistical and ML models to analyse behaviour, segment audiences and predict engagement patterns across digital and CRM‑led campaigns.
+Impact: 30% increase in campaign effectiveness, enhanced personalisation and forecasting accuracy.
+Tools: Python, AI/ML, Power BI, Salesforce, SQL, Synapse, Data Factory, DevOps.
+
+Power BI Analytics for Business Performance & KPIs | Samsung TV
+Jan 2022 – Apr 2024  
+Developed automated dashboards for sales, marketing and operational KPIs across retail and digital channels, enabling real‑time visibility and performance tracking.
+Impact: 30% reduction in manual reporting, stronger strategic decision‑making.
+Tools: Power BI, DAX, SQL, Synapse.
+
+Sales Intelligence Data Warehouse Integration | Mars Wrigley
+Sep 2016 – Aug 2022  
 
 ---
 
