@@ -1,7 +1,7 @@
 # Wasif Mir Data Architect | Scalable BI & AI Solutions
 
 Dynamic Strategic Data Architect with deep expertise in designing scalable, cloud‑native data platforms that power real‑time analytics, automation and intelligent decision‑making across enterprise environments.
-Specialised in architecting high‑performance solutions across the Azure ecosystem—Synapse, Data Factory, Data Lake, Microsoft Fabric—enabling predictive analytics, automated engineering pipelines and unified BI delivery.
+Specialised in architecting high‑performance solutions across the Azure ecosystem—Synapse, Data Factory, Data Lake, Microsoft Fabric-enabling predictive analytics, automated engineering pipelines and unified BI delivery.
 
 Skilled in BI architecture, advanced visualisation and data modelling, creating analytics environments that unlock actionable insights and organisation‑wide intelligence. Strong technical leadership across integration, governance, DevOps, CI/CD and multi‑system architecture. Proven success delivering enterprise BI, automation frameworks and end‑to‑end data strategies for global leaders in FMCG, telecoms and retail, generating measurable commercial impact.
 
